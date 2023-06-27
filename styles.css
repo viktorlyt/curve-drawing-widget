@@ -1,0 +1,14 @@
+#imageContainer {
+  position: relative;
+}
+
+#footballImage {
+  width: 100%;
+  height: auto;
+}
+
+#curveCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
