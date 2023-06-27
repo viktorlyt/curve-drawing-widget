@@ -1,10 +1,15 @@
+body {
+  height: 100vh;
+  width: 100vh;
+  overflow: hidden;
+}
+
 #imageContainer {
   position: relative;
 }
 
 #footballImage {
   width: 100%;
-  height: auto;
 }
 
 #curveCanvas {
